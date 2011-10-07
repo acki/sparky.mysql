@@ -5,6 +5,7 @@
         function getHello() {
         
             print "hello";
+            print "hello2";
             
         }
         
